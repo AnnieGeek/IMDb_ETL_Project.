@@ -74,7 +74,7 @@ Muestra cómo se distribuyen las calificaciones entre las películas del Top 250
 
 [Ver el notebook en nbviewer](https://nbviewer.org/github/AnnieGeek/IMDb_ETL_Project/blob/main/notebooks/Peliculas.ipynb)
 
-![Distribución de Películas por Década](output/visualizations/movies_by_decade.png)
+![Distribución de Películas por Década](output/movies_by_decade.png)
 
 ## 🛠️ Herramientas Utilizadas
 **Librerías de Python:**
