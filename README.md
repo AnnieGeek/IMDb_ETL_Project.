@@ -124,6 +124,7 @@ re
    
 4. **Explora los resultados:**
    Los datos procesados estarán en output/movies_transformed.csv y output/movies.db.
+   
    Las visualizaciones estarán en la carpeta output/visualizations.
 
 ## 🤔 Conclusiones
