@@ -1,3 +1,19 @@
-[movies_enriched.csv](https://github.com/user-attachments/files/17862845/movies_enriched.csv)
-![top_10_movies](https://github.com/user-attachments/assets/f56b9420-87c8-47bd-b053-8744ec77ffd2)
-![movies_by_decade](https://github.com/user-attachments/assets/3b814f61-d701-4aad-a50b-6cc0dab0c5cd)
+# Carpeta Output 📂
+
+Esta carpeta contiene los resultados generados por el pipeline ETL, incluyendo los datos transformados y las visualizaciones creadas durante el análisis.
+
+## Contenido
+
+1. **Datos Transformados**
+   - `movies_transformed.csv`: Archivo CSV que contiene los datos limpios y transformados listos para su análisis.
+
+2. **Visualizaciones**
+   - `visualizations/`: Carpeta que incluye los gráficos generados, como:
+     - `top_10_movies.png`: Gráfico de barras que muestra las 10 películas mejor calificadas.
+     - `movies_by_decade.png`: Gráfico que ilustra la distribución de películas por década.
+
+## Notas
+
+- Los gráficos son generados automáticamente al ejecutar el notebook principal (`Peliculas.ipynb`).
+- Asegúrate de que esta carpeta exista antes de ejecutar el proyecto para evitar errores al guardar archivos.
+
