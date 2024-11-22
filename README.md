@@ -72,6 +72,7 @@ Explora la relación entre las calificaciones y la popularidad (medida por núme
 Archivo: output/visualizations/ratings_distribution.png
 Muestra cómo se distribuyen las calificaciones entre las películas del Top 250.
 
+[Ver el notebook en nbviewer](https://nbviewer.org/github/AnnieGeek/IMDb_ETL_Project/blob/main/notebooks/Peliculas.ipynb)
 
 ## 🛠️ Herramientas Utilizadas
 **Librerías de Python:**
