@@ -93,13 +93,14 @@ GitHub: Documentación y versionado del proyecto.
  ## 🖥️ Cómo Ejecutar el Proyecto
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/AnnieGeek/IMDb_ETL_Project.git
+   https://github.com/AnnieGeek/IMDb_ETL_Project.git
    cd IMDb_ETL_Project
 
 
 
 2. **Instala las dependencias:**
    ```bash
+   
 pip install -r requirements.txt
 
 
