@@ -109,12 +109,17 @@ Sigue los pasos a continuación para configurar y ejecutar este proyecto en tu m
    Nota: El archivo requirements.txt incluye las librerías requeridas como:
 
 pandas
+
 matplotlib
+
 sqlite3
+
 os
+
 re
 
 3. **Abre el archivo Jupyter Notebook:**
+   
             jupyter notebook notebooks/Peliculas.ipynb
    
 4. **Explora los resultados:**
