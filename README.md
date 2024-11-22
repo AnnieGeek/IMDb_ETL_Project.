@@ -7,8 +7,11 @@ Pipeline ETL para análisis de datos de IMDb con Python. Este proyecto muestra c
 ## 📋 Estructura del Proyecto
 
 IMDb_ETL_Project/
+
 ├── data/
+
 │   └── imdb_top_250.csv                 # Archivo con los datos originales.
+
 ├── notebooks/
 │   └── Peliculas.ipynb                  # Notebook Jupyter con todo el pipeline ETL.
 ├── output/
