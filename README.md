@@ -103,8 +103,8 @@ Sigue los pasos a continuación para configurar y ejecutar este proyecto en tu m
 
 
 2. Instala las dependencias: Asegúrate de tener Python instalado. Ejecuta este comando en tu terminal para instalar las dependencias necesarias:
-  
-3. pip install -r requirements.txt
+
+    pip install -r requirements.txt
               Nota: El archivo requirements.txt incluye las librerías requeridas como:
 
 pandas
@@ -113,10 +113,10 @@ sqlite3
 os
 re
 
-4. **Abre el archivo Jupyter Notebook:**
+3. **Abre el archivo Jupyter Notebook:**
    jupyter notebook notebooks/Peliculas.ipynb
    
-5. **Explora los resultados:**
+4. **Explora los resultados:**
    Los datos procesados estarán en output/movies_transformed.csv y output/movies.db.
    Las visualizaciones estarán en la carpeta output/visualizations.
 
