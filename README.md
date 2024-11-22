@@ -104,7 +104,7 @@ Sigue los pasos a continuación para configurar y ejecutar este proyecto en tu m
 
 2. Instala las dependencias: Asegúrate de tener Python instalado. Ejecuta este comando en tu terminal para instalar las dependencias necesarias:
 
-    pip install -r requirements.txt
+              pip install -r requirements.txt
    
               Nota: El archivo requirements.txt incluye las librerías requeridas como:
 
