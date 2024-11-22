@@ -91,9 +91,11 @@ Jupyter Notebook: Desarrollo del pipeline ETL.
 GitHub: Documentación y versionado del proyecto.
 
  ## 🖥️ Cómo Ejecutar el Proyecto
-1. **Clona este repositorio:**
-   git clone https://github.com/<TU_USUARIO>/IMDb_ETL_Project.git
-cd IMDb_ETL_Project
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/AnnieGeek/IMDb_ETL_Project.git
+   cd IMDb_ETL_Project
+
 
 
 2. **Instala las dependencias:**
