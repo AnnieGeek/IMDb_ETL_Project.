@@ -55,6 +55,8 @@ Los datos transformados se almacenaron en:
 movies_transformed.csv en la carpeta output/.
 Una base de datos SQLite (movies.db) para facilitar consultas.
 
+https://nbviewer.org/github/AnnieGeek/IMDb_ETL_Project./blob/main/notebooks/Peliculas.ipynb
+
 
 ## 📈 Visualizaciones
 Se generaron las siguientes visualizaciones:
@@ -72,7 +74,6 @@ Explora la relación entre las calificaciones y la popularidad (medida por núme
 Archivo: output/visualizations/ratings_distribution.png
 Muestra cómo se distribuyen las calificaciones entre las películas del Top 250.
 
-[Ver el notebook en nbviewer](https://nbviewer.org/github/AnnieGeek/IMDb_ETL_Project/blob/main/notebooks/Peliculas.ipynb)
 
 ![Distribución de Películas por Década](output/movies_by_decade.png)
 
