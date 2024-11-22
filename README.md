@@ -106,7 +106,7 @@ Sigue los pasos a continuación para configurar y ejecutar este proyecto en tu m
 
               pip install -r requirements.txt
    
-              Nota: El archivo requirements.txt incluye las librerías requeridas como:
+   Nota: El archivo requirements.txt incluye las librerías requeridas como:
 
 pandas
 matplotlib
