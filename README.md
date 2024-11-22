@@ -115,7 +115,7 @@ os
 re
 
 3. **Abre el archivo Jupyter Notebook:**
-   jupyter notebook notebooks/Peliculas.ipynb
+            jupyter notebook notebooks/Peliculas.ipynb
    
 4. **Explora los resultados:**
    Los datos procesados estarán en output/movies_transformed.csv y output/movies.db.
