@@ -13,17 +13,29 @@ IMDb_ETL_Project/
 │   └── imdb_top_250.csv                 # Archivo con los datos originales.
 
 ├── notebooks/
+
 │   └── Peliculas.ipynb                  # Notebook Jupyter con todo el pipeline ETL.
+
 ├── output/
+
 │   ├── movies_transformed.csv           # Datos transformados en formato CSV.
+
 │   ├── movies.db                        # Base de datos SQLite con los datos enriquecidos.
+
 │   └── visualizations/                  # Carpeta para gráficos generados.
+
 │       ├── top_10_movies.png            # Visualización del Top 10.
+
 │       ├── movies_by_decade.png         # Distribución por décadas.
+
 │       ├── votes_vs_rating.png          # Relación entre calificación y votos.
+
 │       └── ratings_distribution.png     # Distribución de calificaciones IMDb.
+
 ├── requirements.txt                     # Dependencias del proyecto.
+
 ├── LICENSE                              # Archivo de licencia del proyecto.
+
 └── README.md                            # Descripción del proyecto.
 
 
