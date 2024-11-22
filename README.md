@@ -7,23 +7,22 @@ Pipeline ETL para análisis de datos de IMDb con Python. Este proyecto muestra c
 ## 📋 Estructura del Proyecto
 
 IMDb_ETL_Project/
-├── data/ 
-│   └── imdb_top_250.csv          # Archivo con los datos originales.
-│
-├── notebooks/ 
-│   └── Peliculas.ipynb           # Notebook Jupyter con todo el pipeline ETL.
-│
-├── output/ 
-│   ├── movies_transformed.csv    # Datos transformados en formato CSV.
-│   ├── movies.db                 # Base de datos SQLite con los datos enriquecidos.
-│   └── visualizations/           # Carpeta para gráficos generados.
-│       ├── top_10_movies.png         # Visualización del Top 10.
-│       ├── movies_by_decade.png      # Distribución por décadas.
-│       ├── votes_vs_rating.png       # Relación entre calificación y votos.
-│       └── ratings_distribution.png  # Distribución de calificaciones IMDb.
-│
-├── requirements.txt             # Dependencias del proyecto.
-├── README.md                    # Descripción del proyecto.
+├── data/
+│   └── imdb_top_250.csv                 # Archivo con los datos originales.
+├── notebooks/
+│   └── Peliculas.ipynb                  # Notebook Jupyter con todo el pipeline ETL.
+├── output/
+│   ├── movies_transformed.csv           # Datos transformados en formato CSV.
+│   ├── movies.db                        # Base de datos SQLite con los datos enriquecidos.
+│   └── visualizations/                  # Carpeta para gráficos generados.
+│       ├── top_10_movies.png            # Visualización del Top 10.
+│       ├── movies_by_decade.png         # Distribución por décadas.
+│       ├── votes_vs_rating.png          # Relación entre calificación y votos.
+│       └── ratings_distribution.png     # Distribución de calificaciones IMDb.
+├── requirements.txt                     # Dependencias del proyecto.
+├── LICENSE                              # Archivo de licencia del proyecto.
+└── README.md                            # Descripción del proyecto.
+
 
 ## 📊 Descripción del Pipeline ETL
 1. Extract (Extracción):
@@ -62,11 +61,14 @@ Muestra cómo se distribuyen las calificaciones entre las películas del Top 250
 ## 🛠️ Herramientas Utilizadas
 **Librerías de Python:**
 pandas: Procesamiento y manipulación de datos.
+
 matplotlib: Creación de gráficos y visualizaciones.
+
 sqlite3: Manejo de bases de datos SQLite.
 
 **Entorno:**
 Jupyter Notebook: Desarrollo del pipeline ETL.
+
 GitHub: Documentación y versionado del proyecto.
 
  ## 🖥️ Cómo Ejecutar el Proyecto
@@ -87,7 +89,9 @@ cd IMDb_ETL_Project
 
 ## 🤔 Conclusiones
 Calificaciones Altas: Existe una correlación entre la cantidad de votos y las mejores calificaciones en IMDb.
+
 Predominancia Histórica: Las décadas de los 1990 y 2000 tienen mayor representación en el Top 250.
+
 Directores Destacados: Christopher Nolan y Steven Spielberg figuran como los directores con más películas en el Top 10.
 
 
