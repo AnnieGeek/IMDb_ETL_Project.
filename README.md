@@ -90,24 +90,33 @@ Jupyter Notebook: Desarrollo del pipeline ETL.
 
 GitHub: Documentación y versionado del proyecto.
 
- ## 🖥️ Cómo Ejecutar el Proyecto
-1. **Clona este repositorio:**
+## 🖥️ Cómo Ejecutar el Proyecto
+
+Sigue los pasos a continuación para configurar y ejecutar este proyecto en tu máquina local.
+
+1. **Clona este repositorio**:
+   Copia y pega el siguiente comando en tu terminal para clonar el repositorio y navegar al directorio del proyecto.
    ```bash
-   https://github.com/AnnieGeek/IMDb_ETL_Project.git
+   git clone https://github.com/AnnieGeek/IMDb_ETL_Project.git
    cd IMDb_ETL_Project
 
 
 
-2. **Instala las dependencias:**
-   ```bash
-   
-pip install -r requirements.txt
+2. Instala las dependencias: Asegúrate de tener Python instalado. Ejecuta este comando en tu terminal para instalar las dependencias necesarias:
+  
+3. pip install -r requirements.txt
+              Nota: El archivo requirements.txt incluye las librerías requeridas como:
 
+pandas
+matplotlib
+sqlite3
+os
+re
 
-3. **Abre el archivo Jupyter Notebook:**
+4. **Abre el archivo Jupyter Notebook:**
    jupyter notebook notebooks/Peliculas.ipynb
    
-4. **Explora los resultados:**
+5. **Explora los resultados:**
    Los datos procesados estarán en output/movies_transformed.csv y output/movies.db.
    Las visualizaciones estarán en la carpeta output/visualizations.
 
