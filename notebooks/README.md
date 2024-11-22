@@ -40,7 +40,9 @@ Esta carpeta contiene el notebook principal del proyecto, que incluye todo el pi
    
 ## Dependencias Principales
 pandas: Manipulación de datos.
+
 matplotlib: Visualización de datos.
+
 sqlite3: Almacenamiento de datos en bases SQLite.
 
 
